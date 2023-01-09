@@ -30,12 +30,12 @@ void display_hotel_menu()
 
   while(1)
   {
-    printf(" Welcome to Hotel Reservation Menu \n");
+    printf(" Welcome to Custom Messaging Application \n");
     printf("===================================\n");
 
-    printf("1. Get room availablity \n");
-    printf("2. Reserve a room \n");
-    printf("3. Cancel a reservation \n");
+    printf("1. Private Chat \n");
+    printf("2. Group Chat \n");
+    printf("3. Active Users \n");
     printf("4. Exit to main menu \n");
     
     printf("Enter option: ");
