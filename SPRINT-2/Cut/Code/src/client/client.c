@@ -1,4 +1,4 @@
-/*Filename: server.c
+/*Filename: client.c
 *
  * 
  *
